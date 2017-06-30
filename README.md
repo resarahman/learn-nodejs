@@ -10,3 +10,7 @@ Just my self note about learning nodejs
 
     sudo n stable
     npm update -g
+
+# check version
+    node -v
+    npm -v
